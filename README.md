@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ## 4. Run the Program
 bash
 python map_personas.py --input data/input.csv --output output/output.json
-# 🐳 Docker Usage (Optional)
+# 🐳 Docker Usage
    ### Build Docker Image
      bash
         docker build -t round1b-app .
